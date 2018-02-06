@@ -1,8 +1,8 @@
 {
-    "name": "bantenprov/rasio-puskesmas-poliklinik-pustu",
-    "description": "Rasio Puskesmas, Poliklinik dan Pustu per 100.000 Penduduk (RPP) Menurut Kabupaten/Kota",
+    "name": "bantenprov/panjang-jalan-provinsi",
+    "description": "Panjang Jalan Provinsi Dalam Kondisi Baik Menurut Kabupaten/Kota",
     "type": "library",
-    "homepage": "https://github.com/bantenprov/rasio-puskesmas-poliklinik-pustu",
+    "homepage": "https://github.com/bantenprov/panjang-jalan-provinsi",
     "authors": [
         {
         "name": "bantenprov",
@@ -12,9 +12,9 @@
     ],
     "license": "MIT",
     "support": {
-      "source": "https://github.com/bantenprov/rasio-puskesmas-poliklinik-pustu,",
-      "issues": "https://github.com/bantenprov/rasio-puskesmas-poliklinik-pustu/issues",
-      "wiki": "https://github.com/bantenprov/rasio-puskesmas-poliklinik-pustu/wiki"
+      "source": "https://github.com/bantenprov/panjang-jalan-provinsi,",
+      "issues": "https://github.com/bantenprov/panjang-jalan-provinsi/issues",
+      "wiki": "https://github.com/bantenprov/panjang-jalan-provinsi/wiki"
     },
     "require": {
         "php": ">=5.6.4",
@@ -26,7 +26,7 @@
             "src/helpers/helpers.php"
         ],
         "psr-4": {
-            "Bantenprov\\RasioPusPoltu\\": "src"
+            "Bantenprov\\PanjangJalanProvinsi\\": "src"
         }
     },
     "minimum-stability": "dev"
